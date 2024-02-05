@@ -1,0 +1,96 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_6CB7E697_769D_F78D_41AA_68D3EADDB4BA.source = https://api.whatsapp.com/send?phone=556133265157&text=Ol%C3%A1,%20vim%20do%20tour%20virtual%20360%C2%B0graus%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20para%20agendar%20uma%20avalia%C3%A7%C3%A3o.
+LinkBehaviour_5DD311B9_7935_0895_41D9_4673588361B1.source = https://api.whatsapp.com/send?phone=556133265157&text=Ol%C3%A1,%20vim%20do%20tour%20virtual%20360%C2%B0graus%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20para%20agendar%20uma%20avalia%C3%A7%C3%A3o.
+LinkBehaviour_5DD241BA_7935_0897_41DD_9275DFF2DBD2.source = https://api.whatsapp.com/send?phone=556133265157&text=Ol%C3%A1,%20vim%20do%20tour%20virtual%20360%C2%B0graus%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20para%20agendar%20uma%20avalia%C3%A7%C3%A3o.
+LinkBehaviour_66FACB09_790B_3975_41D3_38098CBCC6EC.source = https://api.whatsapp.com/send?phone=556133265157&text=Ol%C3%A1,%20vim%20do%20tour%20virtual%20360%C2%B0graus%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20para%20agendar%20uma%20avalia%C3%A7%C3%A3o.
+LinkBehaviour_5DD0C1BB_7935_0895_41C6_C496D61D1558.source = https://maps.app.goo.gl/1QwP1TQVKDZZHJkr9
+LinkBehaviour_5DD6D1B5_7935_089D_41D0_EE6D1F078926.source = https://maps.app.goo.gl/1QwP1TQVKDZZHJkr9
+LinkBehaviour_66A9F091_790B_0894_41D7_38E5A6450194.source = https://maps.app.goo.gl/1QwP1TQVKDZZHJkr9
+LinkBehaviour_6C4170A8_7692_AB82_41A0_EDBE9ACB31D1.source = https://maps.app.goo.gl/1QwP1TQVKDZZHJkr9
+LinkBehaviour_5DD111BB_7935_0895_41D5_D91BE027B3A0.source = https://www.instagram.com/clinica_ortobr
+LinkBehaviour_6D7EDE40_7692_D683_41D9_0F50B0C2052D.source = https://www.instagram.com/clinica_ortobr
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_68429BDE_78FB_188C_41CB_1C3DAAF20D55.text = Sala de material estéril
+
+## Media
+
+### Audio
+audio_51826557_7696_EA8E_41DA_1DD125F9631E.path = null
+audio_52122421_76B5_6A85_41CD_DADCBA5F3F73.path = null
+audio_5CEBDB1A_7693_5E87_41DB_24DA504FDAF5.path = null
+audiores_5D3D9544_7693_AA82_41DA_59757421A78F.mp3Url = media/audio_51826557_7696_EA8E_41DA_1DD125F9631E_pt.mp3
+audiores_5D3D9544_7693_AA82_41DA_59757421A78F.oggUrl = media/audio_51826557_7696_EA8E_41DA_1DD125F9631E_pt.ogg
+audiores_5228279D_76B7_F582_41CF_94772879CABE.mp3Url = media/audio_52122421_76B5_6A85_41CD_DADCBA5F3F73_pt.mp3
+audiores_5228279D_76B7_F582_41CF_94772879CABE.oggUrl = media/audio_52122421_76B5_6A85_41CD_DADCBA5F3F73_pt.ogg
+audiores_5D3A8675_7693_D68D_41BB_0CB77CF5C4B1.mp3Url = media/audio_5CEBDB1A_7693_5E87_41DB_24DA504FDAF5_pt.mp3
+audiores_5D3A8675_7693_D68D_41BB_0CB77CF5C4B1.oggUrl = media/audio_5CEBDB1A_7693_5E87_41DB_24DA504FDAF5_pt.ogg
+
+### Image
+imlevel_6DC5183C_7A3E_02E6_41D5_2A7F82A522CD.url = media/panorama_7E8ED75C_7595_5683_41DC_E93E0A94D341_HS_kpfljuc5_pt.png
+
+### Title
+photo_5D5A150C_7915_098C_41D5_8D94EE03FBC7.label = 412703477_1042441020397155_8542457865590554504_n
+panorama_788332A8_7592_AF83_41BF_971A188344BA.label = consultório1
+panorama_7EB35D6B_7592_DA85_41A2_33FAA1C5FD66.label = consultório2
+panorama_7E8E46DE_7592_F7BF_41A0_065D84A97429.label = consultório3
+panorama_7E8EDE92_7592_F787_41D9_E3B0492D1351.label = corredor
+panorama_7E8EB695_7592_D78D_41CC_435D3C13184C.label = elevador
+panorama_7E8EAEF9_7592_D782_41D0_E6DFF6A167B7.label = entrada1
+panorama_7E8E36B7_7592_B78E_41B5_AF0959E2E891.label = entrada2
+panorama_7E8E8F2C_7592_B683_41AD_8E238C3EEF8D.label = recepção
+panorama_7E8ED75C_7595_5683_41DC_E93E0A94D341.label = sala-de-esterelizacao
+
+## Popup
+
+### Body
+htmlText_5DD541B7_7935_089D_41BF_2BEE691F84FA.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  </SPAN><B>Principais procedimentos realizados</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Aparelhos Ortodônticos</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Alinhadores Estéticos</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Limpeza Dentária</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Tratamento De Cáries</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Lentes De Contato</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Implantes dentários</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Próteses Unitárias e Sobre Implantes</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Prótese Total/Parcial</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Restaurações</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Tratamento De Canais</SPAN></DIV></BODY></HTML></div>
+htmlText_5A6AD1E0_7915_08B4_41DC_B2F3405CF584.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  </SPAN><B>Principais procedimentos realizados</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Aparelhos Ortodônticos</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Alinhadores Estéticos</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Limpeza Dentária</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Tratamento De Cáries</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Lentes De Contato</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Implantes dentários</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Próteses Unitárias e Sobre Implantes</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Prótese Total/Parcial</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Restaurações</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Tratamento De Canais</SPAN></DIV></BODY></HTML></div>
+
+## Skin
+
+### Button
+Button_66F88B08_790B_3973_41D3_140C3F899A3B.label = Agendar uma avaliação
+Button_66F88B08_790B_3973_41D3_140C3F899A3B_mobile.label = Agendar uma avaliação
+Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = Consultório 1
+Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = Consultório 1
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = Consultório 2
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = Consultório 2
+Button_61C8A2BD_7695_EF82_41DD_52BEFCB8F53C.label = Consultório 3
+Button_61C8A2BD_7695_EF82_41DD_52BEFCB8F53C_mobile.label = Consultório 3
+Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = Entrada
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = Entrada
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = Localização Maps
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = Localização Maps
+Button_61C8A2BD_7695_EF82_41DD_52BEFCB8F53C.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
+Button_61C8A2BD_7695_EF82_41DD_52BEFCB8F53C_mobile.pressedLabel = Location
+Button_6E3897AF_7693_B59D_41A9_A80B17C9678C_mobile.label = Recepção
+Button_6E3897AF_7693_B59D_41A9_A80B17C9678C.label = Recepção
+Button_66B05FE7_7917_38BC_4152_4CFE7D0F2918.label = Tratamentos realizados
+Button_66B05FE7_7917_38BC_4152_4CFE7D0F2918_mobile.label = Tratamentos realizados
+
+### Image
+Image_6FF4EB31_76B7_BE82_41DD_3473B3A81F81.path = null
+Image_6FF4EB31_76B7_BE82_41DD_3473B3A81F81_mobile.path = null
+Image_6F1D7B07_7692_FE8D_41DC_88E220CF9A87_mobile.path = null
+Image_6F1D7B07_7692_FE8D_41DC_88E220CF9A87.path = null
+Image_6F1D7B07_7692_FE8D_41DC_88E220CF9A87_mobile.url = skin/Image_6F1D7B07_7692_FE8D_41DC_88E220CF9A87_mobile_pt.png
+Image_6F1D7B07_7692_FE8D_41DC_88E220CF9A87.url = skin/Image_6F1D7B07_7692_FE8D_41DC_88E220CF9A87_pt.png
+Image_6FF4EB31_76B7_BE82_41DD_3473B3A81F81_mobile.url = skin/Image_6FF4EB31_76B7_BE82_41DD_3473B3A81F81_mobile_pt.png
+Image_6FF4EB31_76B7_BE82_41DD_3473B3A81F81.url = skin/Image_6FF4EB31_76B7_BE82_41DD_3473B3A81F81_pt.png
+
+## Tour
+
+### Description
+tour.description = Faça um tour virtual pelo nossa clínica
+
+### Title
+tour.name = Clínica OrtoBr
